@@ -10,7 +10,7 @@ export const Hero = () => {
         <h2>Anda Mau Ngutang? <br/>Di sini Tempatnya!</h2>
       </div>
       <div>
-        <p>Ngutanglah jika Anda butuh uang, bukan saat anda tidak punya uang</p>
+        <p>Ngutang sekarang, bayar kapan-kapan</p>
       </div>
       </section>
       <section>

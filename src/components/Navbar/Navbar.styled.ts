@@ -25,8 +25,6 @@ export const NavList = styled.ol`
 export const NavListItem = styled.li`
   list-style: none;
   display: inline;
-  
-
  
   & > a {
     padding: 4px 8px;
@@ -39,7 +37,6 @@ export const NavListItem = styled.li`
     &:last-child {
       margin-right: 0;
     }
-   
     
     @media only screen and (min-width: 1365px) {
       margin: 0 48px;
