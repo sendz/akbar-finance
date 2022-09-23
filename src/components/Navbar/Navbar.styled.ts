@@ -8,7 +8,7 @@ export const NavbarEl = styled.nav`
   background: #3C4BA6;
   padding: 24px 8px;
   
-  @media only screen and (min-width: 1366px) {
+  @media only screen and (min-width: 1365px) {
     padding: 64px 60px;
   }
 `
@@ -34,7 +34,7 @@ export const NavListItem = styled.li`
       background: rgba(255,255,255, 0.2);
     }
     
-    @media only screen and (min-width: 1366px) {
+    @media only screen and (min-width: 1365px) {
       margin: 0 48px;
     }
   }

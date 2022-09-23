@@ -15,7 +15,7 @@ export const Navbar = () => {
           </Link>
         </NavListItem>
         <NavListItem>
-          <Link to="/">
+          <Link to="/product">
             Product
           </Link>
         </NavListItem>
