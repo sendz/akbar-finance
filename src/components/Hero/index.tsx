@@ -1,5 +1,6 @@
 import React from "react";
 import { HeroEl } from "./Hero.styled";
+import unsplash from "./unsplash.jpg";
 
 export const Hero = () => {
   return (
@@ -13,7 +14,7 @@ export const Hero = () => {
       </div>
       </section>
       <section>
-        Gambar
+        <img src={unsplash} className="unsplash" alt="Hero Image" />
       </section>
     </HeroEl>
   )

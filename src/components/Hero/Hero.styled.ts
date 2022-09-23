@@ -7,9 +7,14 @@ export const HeroEl = styled.header`
   color: white;
   background: #3C4BA6;
   justify-content: space-between;
+  align-items: center;
   padding: 24px 8px;
 
   @media only screen and (min-width: 1365px) {
     padding: 64px 60px;
+  }
+  
+  & img {
+    max-width: 360px;
   }
 `

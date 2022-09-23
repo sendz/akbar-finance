@@ -25,6 +25,9 @@ export const NavList = styled.ol`
 export const NavListItem = styled.li`
   list-style: none;
   display: inline;
+  
+
+ 
   & > a {
     padding: 4px 8px;
     text-decoration: none;
@@ -33,6 +36,10 @@ export const NavListItem = styled.li`
     &:hover {
       background: rgba(255,255,255, 0.2);
     }
+    &:last-child {
+      margin-right: 0;
+    }
+   
     
     @media only screen and (min-width: 1365px) {
       margin: 0 48px;
