@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Design
+
+[Akbar Finance Figmaballs](https://www.figma.com/file/SlVFt3CXdYmuLxc2kJPwG4/Akbar-Finance?node-id=0%3A1)
+
 ## Available Scripts
 
 In the project directory, you can run:
